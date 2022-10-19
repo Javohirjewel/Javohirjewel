@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Javohi Shodmonov
+- 👋 Hi, I’m @Javohir Shodmonov
 - 👋I am 22 years old and currently studying at TUIT University.
 - 👀 I’m interested in playing football, computer games, play chess and reading books.
 - 🌱 I’m currently learning javascript and english.
