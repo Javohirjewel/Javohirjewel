@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Javohir Shodmonov
+- <h3 align="center"> Hi 👋, I’m Javohir Shodmono</h3>
 - 👋I am 22 years old and currently studying at TUIT University.
 - 👀 I’m interested in playing football, computer games, play chess and reading books.
 - 🌱 I’m currently learning javascript and english.
 - 📫 I want to work in EPAM and Google in the future.
 - ✨ My goal is to achieve more results, I want to earn more money by working in a job suitable for me.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <h3 align="left"><a href="https://t.me/Javokh1r_off1c1al">Connect with me:</a></h3>
 <p align="left">
