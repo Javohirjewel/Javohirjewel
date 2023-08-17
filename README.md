@@ -1,4 +1,4 @@
-  <h3 align="center"> Hi 👋, I’m Javohir Shodmonov</h3>
+- <h3 align="center"> Hi 👋, I’m Javohir Shodmonov</h3>
 - 👋I am 23 years old and currently studying at TUIT University.
 - 👀 I’m interested in playing football, computer games, play chess and reading books.
 - 🌱 I’m currently learning javascript and english.
